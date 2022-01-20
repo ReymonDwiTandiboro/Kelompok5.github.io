@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;800&family=Rubik&display=swap');
+.navbar {
+    background: rgba(255, 255, 255, 0.8);
+    font-family: roboto;
+}
+
+.jumbotron {
+  background-image: url(./img/obat.jpg) ;
+  height: 100vh;
+  background-position: right;
+  background-size: cover;
+  padding-top: 3rem;
+ 
+}
+
+.display-4 {
+  font-family: roboto;
+  font-size: 30px;
+  color: aliceblue;
+  text-align: left;
+  padding-left: 150px;
+  padding-top: 50px;
+}
+span {
+  color: darkorange;
+  font-family: roboto;
+}
+.lead {
+  font-family: roboto;
+  text-align: left;
+  padding-left: 150px;
+  color: aliceblue;
+}
+.p-3 {
+  position: absolute;
+  width: 900px;
+  height: 500px;
+  left: 190px;
+  margin-left: 40px;
+  top: 130px;
+  
+  transform: translate(0.8);
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}
+.col{
+  margin-top: 60px;
+}
+
+.card img{
+    width: 400px;
+    height: 200px;
+    margin-left: 60px;
+    margin-top: 20px;
+   
+}
+.card{
+    background-color: #A7D8E2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(255, 255, 255, 0.25), inset 0px 4px 4px rgba(255, 255, 255, 0.25);
+    border-radius: 10px;
+}
+
+
+h5{
+  font-size: 16px;
+  font-family: roboto;
+  color: #000;
+  margin-bottom: -50px;
+}
+
+p{
+  position: absolute;
+  width: 550px;
+  height: 96px;
+  left: 175px;
+  top: 90px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 25px;
+/* or 219% */
+
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}

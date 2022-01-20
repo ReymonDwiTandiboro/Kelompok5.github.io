@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;800&family=Rubik&display=swap');
+.navbar {
+    background: rgba(255, 255, 255, 0.8);
+    font-family: roboto;
+}
+
+body { 
+  background: url(./img/obat.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.haha{
+  width: auto;
+  height: auto;
+  top: 130px;
+  transform: translate(0.8);
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}
+.coli{
+  margin-top: 60px;
+}
+
+.display-4 {
+  font-family: roboto;
+  font-size: 30px;
+  color: aliceblue;
+  text-align: left;
+  padding-left: 120px;
+  padding-top: 20px;
+}
+span {
+  color: darkorange;
+  font-family: roboto;
+}
+.lead {
+  font-family: roboto;
+  text-align: left;
+  padding-left: 120px;
+  color: aliceblue;
+}
+.p-3{
+    width: 250px;
+    height: 150px;
+    margin-left: 110px;
+    margin-right: 80px;
+    margin-top: 50px;
+}
+.col {
+  margin-right: -280px;
+  margin-bottom: 120px;
+}
+
+.card img{
+    width: 180px;
+    height: 100px;
+    margin-left:18px;
+    margin-top: 18px;
+    border-radius: 5px;
+   
+}
+
+.card-title{
+  font-size: 16px;
+  margin-top: -8px;
+}
+
+.card-text{
+  font-size: 14px;
+  margin-top: -8px;
+}
+
+.card{
+    background-color: #c7ebf2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(255, 255, 255, 0.25), inset 0px 4px 4px rgba(255, 255, 255, 0.25);
+    border-radius: 10px;
+}
